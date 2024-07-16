@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Pizza-Restuarant/static/css/main.b24ab6c6.css",
-    "main.js": "/Pizza-Restuarant/static/js/main.79baf5d8.js",
+    "main.js": "/Pizza-Restuarant/static/js/main.fb9efe97.js",
     "static/js/453.f33d9648.chunk.js": "/Pizza-Restuarant/static/js/453.f33d9648.chunk.js",
     "static/media/cart-1502681-1272891.webp": "/Pizza-Restuarant/static/media/cart-1502681-1272891.0885669696eab8676b26.webp",
     "static/media/logo.svg": "/Pizza-Restuarant/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Pizza-Restuarant/index.html",
     "main.b24ab6c6.css.map": "/Pizza-Restuarant/static/css/main.b24ab6c6.css.map",
-    "main.79baf5d8.js.map": "/Pizza-Restuarant/static/js/main.79baf5d8.js.map",
+    "main.fb9efe97.js.map": "/Pizza-Restuarant/static/js/main.fb9efe97.js.map",
     "453.f33d9648.chunk.js.map": "/Pizza-Restuarant/static/js/453.f33d9648.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b24ab6c6.css",
-    "static/js/main.79baf5d8.js"
+    "static/js/main.fb9efe97.js"
   ]
 }
