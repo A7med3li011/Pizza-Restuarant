@@ -25,6 +25,7 @@ export default function Header() {
         e.preventDefault()
         
         navigate(`/createorder/${query}`)
+        setQuery("")
 
       }}>
         <input className='rounded-full me-2 bg-yellow-100 py-1.5 px-3 w-24 sm:w-60 focus:outline-none text-sm focus:ring-1 focus:ring-yellow-200 ' placeholder='Search order #' type="text" value={query} onChange={(e) => setQuery(e.target.value)} />

@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {  createBrowserRouter,RouterProvider } from 'react-router-dom';
+import {  createBrowserRouter,createHashRouter,RouterProvider } from 'react-router-dom';
 import Layout from './Layout';
 import Home from './Pages/Home';
 import Cart from './Pages/Cart';
@@ -10,7 +10,7 @@ import CreateOrder from './Pages/CreateOrder';
 import Myorder from './Components/Myorder';
 
 function App() {
-  const router = createBrowserRouter([
+  const router = createHashRouter([
     {element:<Layout/>,errorElement:<Error/>,children:[
 
       {path:"/", element:<Home/>,errorElement:<Error/>},
